@@ -1,0 +1,47 @@
+.head,.body-Section{
+	text-align: center;
+}
+.body-Section{
+	margin-top: 15px;
+}
+.table-Section{
+	margin-top: 20px;
+	display: none;
+}
+.head{
+	background-color: #BFBFAD;
+}
+/*table, td {
+    border: 1px solid black;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}*/
+.textClass{
+	height: 33px;
+	width: 300px;
+	margin-bottom: 10px;
+	border-radius: 5px;
+}
+.bottomButtons{
+	float: right;
+}
+span{
+	padding-right: 2px;
+}
+.updateButton{
+	margin-bottom: 10px;
+}
+.updateButton,.deleteButton{
+	width: 200px;
+}
+#myModal,#myUpdateModal{
+	height: auto;
+	width: auto;
+}
+.footerAdd{
+	margin-top: 250px;
+}
